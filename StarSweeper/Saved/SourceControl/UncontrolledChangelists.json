@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/Maps/Galaxy.umap"
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/Maps/Galaxy.umap",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/Blueprints/BP_Planet.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/Maps/_GENERATED/cowen/Box_E6C01A9D.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/Blueprints/BPI_PlanetGravity.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
