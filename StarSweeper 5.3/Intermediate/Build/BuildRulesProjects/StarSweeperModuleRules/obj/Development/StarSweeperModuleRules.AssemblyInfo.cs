@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarSweeperModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aca96cf1b54e26c9595f1c7ec90a1d5fce3dd6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac00388c043205738886ebe53875bfacacf91f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarSweeperModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarSweeperModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
