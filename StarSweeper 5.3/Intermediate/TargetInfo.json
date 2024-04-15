@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StarSweeper",
+			"Path": "..\\Source\\StarSweeper.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StarSweeperEditor",
+			"Path": "..\\Source\\StarSweeperEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

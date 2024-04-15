@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\source\\starsweeper\\starsweeper.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\x64\\starsweepereditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\starsweeper\\definitions.starsweeper.h",
+            "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\source\\starsweeper\\starsweeper.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
