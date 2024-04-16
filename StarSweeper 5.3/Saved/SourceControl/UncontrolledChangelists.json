@@ -5,6 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Maps/Galaxy.umap",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Maps/_GENERATED/cowen/Sphere_7C71BA05.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Content/Materials/M_PlanetSpawnSurface.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Content/Environment/Rocks_Rock_5.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Content/Environment/Rocks_Rock_3.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Content/Environment/Rocks_Rock_2.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Content/Environment/Rocks_Rock_1.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Content/Environment/Rocks.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Content/Environment/Rock.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Content/Environment/Rocks_Rock_4.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Megascans/Surfaces/MI_Mossy_Flagstone_Floor_uljcedw_1K.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Megascans/Surfaces/Mossy_Flagstone_Floor_uljcedw/MI_Mossy_Flagstone_Floor_uljcedw_1K.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Megascans/Surfaces/MI_Mossy_Ground_tl2oebkr_1K.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Megascans/Surfaces/Mossy_Ground_tl2oebkr/MI_Mossy_Ground_tl2oebkr_1K.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Megascans/Surfaces/MI_Mossy_Rocky_Ground_vmgobetlw_1K.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Megascans/Surfaces/Mossy_Rocky_Ground_vmgobetlw/MI_Mossy_Rocky_Ground_vmgobetlw_1K.uasset",
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/BlendMaterials/BlendMaterial.uasset",
 				"C:/Users/cowen/Documents/GitHub/StarSweeper/StarSweeper 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/cowen/Documents/GitHub/StarSweeper/StarSweeper 5.3/Content/Maps/Galaxy.umap",
 				"C:/Users/cowen/Documents/GitHub/StarSweeper/StarSweeper 5.3/Content/Content/Materials/M_PlanetSpawnSurface.uasset",
@@ -23,11 +42,7 @@
 				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/Blueprints/BPI_PlanetGravity.uasset",
 				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/ThirdPerson/Input/Actions/IA_UpDown.uasset",
-				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Maps/Galaxy.umap",
-				"D:/Documents/ClaraGame/StarSweeper/StarSweeper 5.3/Content/Maps/_GENERATED/cowen/Sphere_7C71BA05.uasset"
+				"D:/Documents/ClaraGame/StarSweeper/StarSweeper/Content/ThirdPerson/Input/IMC_Default.uasset"
 			]
 		}
 	]
