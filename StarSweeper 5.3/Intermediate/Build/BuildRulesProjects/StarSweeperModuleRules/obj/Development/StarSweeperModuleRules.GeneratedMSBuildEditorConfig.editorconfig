@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StarSweeperModuleRules
-build_property.ProjectDir = D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\BuildRulesProjects\StarSweeperModuleRules\
+build_property.ProjectDir = C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\BuildRulesProjects\StarSweeperModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
