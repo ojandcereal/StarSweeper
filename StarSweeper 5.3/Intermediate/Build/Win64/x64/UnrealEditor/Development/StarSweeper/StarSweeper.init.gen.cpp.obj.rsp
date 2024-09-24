@@ -1,11 +1,11 @@
-"D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\UnrealEditor\Inc\StarSweeper\UHT\StarSweeper.init.gen.cpp"
-/FI"D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\StarSweeperEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h"
-/FI"D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarSweeper\Definitions.StarSweeper.h"
-/Yu"D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\StarSweeperEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h"
-/Fp"D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\StarSweeperEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.pch"
-/Fo"D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarSweeper\StarSweeper.init.gen.cpp.obj"
-/sourceDependencies "D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarSweeper\StarSweeper.init.gen.cpp.dep.json"
-@"D:\Documents\ClaraGame\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarSweeper\StarSweeper.Shared.rsp"
+"C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\UnrealEditor\Inc\StarSweeper\UHT\StarSweeper.init.gen.cpp"
+/FI"C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\StarSweeperEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h"
+/FI"C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarSweeper\Definitions.StarSweeper.h"
+/Yu"C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\StarSweeperEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h"
+/Fp"C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\StarSweeperEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarSweeper\StarSweeper.init.gen.cpp.obj"
+/sourceDependencies "C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarSweeper\StarSweeper.init.gen.cpp.dep.json"
+@"C:\Users\cowen\Documents\GitHub\StarSweeper\StarSweeper 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarSweeper\StarSweeper.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

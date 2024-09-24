@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Documents\\ClaraGame\\StarSweeper\\StarSweeper 5.3\\Source\\StarSweeper\\StarSweeper.Build.cs",
-		"D:\\Documents\\ClaraGame\\StarSweeper\\StarSweeper 5.3\\Source\\StarSweeper.Target.cs",
-		"D:\\Documents\\ClaraGame\\StarSweeper\\StarSweeper 5.3\\Source\\StarSweeperEditor.Target.cs"
+		"C:\\Users\\cowen\\Documents\\GitHub\\StarSweeper\\StarSweeper 5.3\\Source\\StarSweeper\\StarSweeper.Build.cs",
+		"C:\\Users\\cowen\\Documents\\GitHub\\StarSweeper\\StarSweeper 5.3\\Source\\StarSweeper.Target.cs",
+		"C:\\Users\\cowen\\Documents\\GitHub\\StarSweeper\\StarSweeper 5.3\\Source\\StarSweeperEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

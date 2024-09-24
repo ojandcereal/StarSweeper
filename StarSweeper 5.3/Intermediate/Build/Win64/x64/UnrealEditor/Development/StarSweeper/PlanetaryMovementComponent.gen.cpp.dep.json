@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\unrealeditor\\inc\\starsweeper\\uht\\planetarymovementcomponent.gen.cpp",
+        "Source": "c:\\users\\cowen\\documents\\github\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\unrealeditor\\inc\\starsweeper\\uht\\planetarymovementcomponent.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\x64\\starsweepereditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\cowen\\documents\\github\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\x64\\starsweepereditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\starsweeper\\definitions.starsweeper.h",
-            "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\source\\starsweeper\\planetarymovementcomponent.h",
+            "c:\\users\\cowen\\documents\\github\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\starsweeper\\definitions.starsweeper.h",
+            "c:\\users\\cowen\\documents\\github\\starsweeper\\starsweeper 5.3\\source\\starsweeper\\planetarymovementcomponent.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementcomponent.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
@@ -31,7 +31,7 @@
             "d:\\ue_5.3\\engine\\source\\runtime\\engine\\public\\charactermovementcomponentasync.h",
             "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementcomponentasync.generated.h",
             "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementcomponent.generated.h",
-            "d:\\documents\\claragame\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\unrealeditor\\inc\\starsweeper\\uht\\planetarymovementcomponent.generated.h"
+            "c:\\users\\cowen\\documents\\github\\starsweeper\\starsweeper 5.3\\intermediate\\build\\win64\\unrealeditor\\inc\\starsweeper\\uht\\planetarymovementcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
